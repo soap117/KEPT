@@ -10,7 +10,7 @@ import re
 import pandas as pd
 import numpy as np
 import csv
-import ujson, json
+import json
 from collections import defaultdict
 
 InputDataClass = NewType("InputDataClass", Any)
